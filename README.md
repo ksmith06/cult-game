@@ -1,1 +1,2 @@
-# cult-game
+# Cult Game!
+by Ben, Jack, Kenny and Owen
