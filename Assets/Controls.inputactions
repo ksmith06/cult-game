@@ -2,7 +2,7 @@
     "name": "Controls",
     "maps": [
         {
-            "name": "Main",
+            "name": "Gameplay",
             "id": "ae3481f5-2a30-4618-9cd1-3f3f62edd5aa",
             "actions": [
                 {
