@@ -7,5 +7,4 @@ public class RangedWeapon : Weapon
     public float projectileWidth;
     public float projectileSpeed;
     public int piercing; // num of enemies that can be pierced
-    public Sprite projectileSprite;
 }

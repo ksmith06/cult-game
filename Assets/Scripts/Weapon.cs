@@ -9,6 +9,7 @@ public abstract class Weapon
     protected float cooldown;
     public bool friendlyFire;
     public float knockback;
-    protected Sprite sprite;
+    protected Sprite idleSprite;
+    protected Sprite attackSprite;
 
 }
